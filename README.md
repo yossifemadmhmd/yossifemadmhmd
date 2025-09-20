@@ -10,7 +10,7 @@ I build clean, responsive, and accessible web apps with a focus on performance a
 
 * 🎓 2nd-year student, **Faculty of Computers and AI-BeniSuef university** (Expected: 2028).
 * 💡 Passionate about **Angular**, **RxJS**, component design, and state management.
-* 🔭 Currently polishing my portfolio and building **E-commerce** (Angular playground for skills/tasks).
+* 🔭 Currently building **E-commerce** (Angular playground for skills/tasks).
 * 🤝 Open to **Internships** & **Junior Frontend** roles — remote or on-site.
 
 ---
