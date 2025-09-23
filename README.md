@@ -58,7 +58,7 @@ I build clean, responsive, and accessible web apps with a focus on performance a
 
 * 💼 💼 LinkedIn: [https://www.linkedin.com/in/youssef-emad-b476b3378/]
   
-📧 Email: [mohamedyoussef0509@gmail.com]
+📧 Email: [yemadmhmd@gmail.com]
 ---
 
 > ⭐ If you like my work, consider starring some repos — it helps visibility!
