@@ -27,7 +27,7 @@
 Passionate **Frontend Developer** with a strong enthusiasm for building user-friendly and visually appealing web applications. I’m always eager to learn new technologies and improve my skills to stay up-to-date with the latest trends in frontend development. My decent command of English allows me to communicate effectively, collaborate with teams, and continuously grow in an international environment.
   
     
-  - 🌱 **Currently learning:** Deep Learning & Critical Thinking  
+  - 🌱 **Currently learning:** Tailwind CSS & Critical Thinking  
   - 💼 **Open to:** Internships & Junior Frontend roles  
   - 📫 **Reach me at:** yemadmhmd@email.com 
 
