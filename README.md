@@ -5,6 +5,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-emad-b476b3378/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:yemadmhmd@email.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yossifemad)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/yossifemad39)
+
 
 </div>
 
