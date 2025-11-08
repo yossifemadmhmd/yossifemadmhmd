@@ -1,66 +1,73 @@
-# 👋 Hi, I'm Youssef Emad
+<h1 align="center">Hello, I'm Youssef Emad</h1>
+<h3 align="center">Frontend Developer(Angular)</h3>
 
-🚀 **Frontend Developer (Angular)**
+<div align="center">
 
-I build clean, responsive, and accessible web apps with a focus on performance and DX.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-emad-b476b3378/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:yemadmhmd@email.com)
 
----
-
-## 🧑‍💻 About Me
-
-* 🎓 2nd-year student, **Faculty of Computers and AI-BeniSuef university** (Expected: 2028).
-* 💡 Passionate about **Angular**, **RxJS**, component design, and state management.
-* 🔭 Currently building **E-commerce** (Angular playground for skills/tasks).
-* 🤝 Open to **Internships** & **Junior Frontend** roles — remote or on-site.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<div align="left">
 
-**Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3.
+## 🚀 About Me  
 
-**Frameworks & Libraries:** Angular, RxJS, Bootstrap.
+</div>
 
-**Tools & Platforms:** Git & GitHub, VS Code.
+###
 
-**Practices:** Responsive Design, REST APIs, Routing, Forms (Template-driven & Reactive), Lazy Loading.
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
 
----
+###
 
-## 📌 Highlights
-
-* Built reusable Angular components with clear inputs/outputs and smart/dumb separation.
-* Applied RxJS for state management and reactive data streams.
-* Focus on a11y and semantic HTML.
-* Write readable code with strong typing, error handling, and clean folder structure.
-
----
-
-## 🌟 Featured Projects
-
-* **E‑commerce Module:** Cart, products, filtering, and pagination with Angular + RxJS
----
-
-## 📊 GitHub Stats
-
-> Replace **<USERNAME>** with your GitHub username (exactly) in the three URLs below.
-> 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yossifemadmhmd&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yossifemadmhmd&layout=compact)
-
-![Streak](https://streak-stats.demolab.com?user=yossifemadmhmd)
-
-
----
-
-## 📫 Connect
-
-* 💼 💼 LinkedIn: [https://www.linkedin.com/in/youssef-emad-b476b3378/]
+<div align="left">
   
-📧 Email: [yemadmhmd@gmail.com]
+Passionate **Frontend Developer** with a strong enthusiasm for building user-friendly and visually appealing web applications. I’m always eager to learn new technologies and improve my skills to stay up-to-date with the latest trends in frontend development. My decent command of English allows me to communicate effectively, collaborate with teams, and continuously grow in an international environment.
+  
+    
+  - 🌱 **Currently learning:** Deep Learning & Critical Thinking  
+  - 💼 **Open to:** Internships & Junior Frontend roles  
+  - 📫 **Reach me at:** yemadmhmd@email.com 
+
+</div>
+
 ---
 
-> ⭐ If you like my work, consider starring some repos — it helps visibility!
+## 🛠️ Tech Stack
 
-— *From **Youssef Emad***
+### Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+
+### Tools & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=yossifemadmhmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=yossifemadmhmd&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yossifemadmhmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+
+</div>
+
+![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
+
